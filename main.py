@@ -3,6 +3,7 @@ import requests
 import json
 import random
 
+
 client = discord.Client()
 
 sad_words = ["sad", "fuck", "madbcbad", "angry", "tilt", "titled"]
